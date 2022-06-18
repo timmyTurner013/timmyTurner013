@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @timmyTurner013
+- 👀 I’m interested in learning new things
+- 🌱 I’m currently learning laravel
