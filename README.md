@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @timmyTurner013
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning laravel
+- 🌱 I’m currently learning laravel, vue and what not
